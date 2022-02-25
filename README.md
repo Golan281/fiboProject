@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Golan281
-- 👀 I’m interested in HTML, CSS, JS
+- 👀 I’m interested in HTML, CSS, JS, React
 - 🌱 I’m currently learning Fullstack web development
 - 💞️ I’m looking to collaborate on learning webdev with like minded people
 - 📫 How to reach me: golan281@gmail.com.
